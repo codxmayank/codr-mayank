@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @codr-mayank (Tech enthusiast)
+- 👋 Hi, I’m mayank (@codr-mayank) (Tech enthusiast)
 - 👀 I’m skilled in Software Development (Frontend)
-- 🌱 Learning backend development.
-- ✨ Goal is to become an expert Full Stack Developer.
-- 💞️ I’m looking to collaborate on React Projects.
+- 🌱 Improving on backend skills..
+- 💞️ I’m looking to collaborate on JavaScript based projects.
 
 <!---
 codr-mayank/codr-mayank is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
