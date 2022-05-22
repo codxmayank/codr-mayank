@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @codr-mayank (JS dev)
-- 👀 I’m skilled in Frontend Software Development (React)
-- 🌱 Improving on Backend Skills like Spring Boot.
+- 👋 Hi, I’m @codr-mayank (Tech enthusiast)
+- 👀 I’m skilled in Software Development (Frontend)
+- 🌱 Learning backend development.
 - ✨ Goal is to become an expert Full Stack Developer.
 - 💞️ I’m looking to collaborate on React Projects.
 
