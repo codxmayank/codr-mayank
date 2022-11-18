@@ -1,6 +1,6 @@
 - 👋 Hi, I’m mayank (@codr-mayank) (Tech enthusiast)
 - 👀 I’m skilled in Software Development (Frontend)
-- 🌱 Improving on backend skills..
+- 🌱 Skilled in React, Redux and its ecosystem. Also working on Vue, Nuxt3 and related technologies.
 - 💞️ I’m looking to collaborate on cool projects.
 
 <!---
