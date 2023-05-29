@@ -1,6 +1,6 @@
 - 👋 Hi, I’m mayank (@codr-mayank) (Tech enthusiast)
 - 👀 I’m a Software Development Professional (Frontend)
-- 🌱 Skilled in React, Redux, Vue, Nuxt3, Svelte and related technologies.
+- 🌱 Skilled in technologies like React, Redux, Vue, Nuxt, Svelte, etc.
 - 💞️ I’m looking to collaborate on cool projects.
 
 <!---
